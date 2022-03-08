@@ -113,7 +113,7 @@ The outline of the build is [here](https://github.com/alphacep/vosk-api/blob/mas
 
 #### Python module build
 
-After you have built kaldi with openblas,clapack and openfst, you can buid python module:
+After you have built kaldi with openblas,clapack and openfst, you can buid Python module:
 
 ```sh
 git clone https://github.com/alphacep/vosk-api
